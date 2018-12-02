@@ -37,7 +37,7 @@ Customize Positive and Negative Messages
 
 [Erik Ryhorchuk](https://github.com/AbsoluteSpace)
 
-[Leo Zhang](https://github.com/PhaseRush)
+[Leo Zhang](https://github.com/PhaseRush) 
 
 [Moses Kirathe](https://github.com/moses-kirathe)
 
