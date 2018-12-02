@@ -39,7 +39,7 @@ Erik Ryhorchuk
 
 Leo Zhang
 
-Moses Kirathe
+[Moses Kirathe](https://github.com/moses-kirathe)
 
 [Melissa Bernstein](https://github.com/melissab1238)
 
