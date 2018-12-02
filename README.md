@@ -37,7 +37,7 @@ Customize Positive and Negative Messages
 
 Erik Ryhorchuk
 
-Leo Zhang
+[Leo Zhang](https://github.com/PhaseRush)
 
 [Moses Kirathe](https://github.com/moses-kirathe)
 
