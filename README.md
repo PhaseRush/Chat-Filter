@@ -41,7 +41,7 @@ Leo Zhang
 
 Moses Kirathe
 
-Melissa Bernstein
+[Melissa Bernstein](https://github.com/melissab1238)
 
 #### Resources:
 
